@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wtK7mtuLCkhlhJZSzY0OFHLQi9tv6VjxB3STT/W0glXFJ7qHBbLTE9Za1q0L5YysyyAg93MJecqAcgMQkFX2Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joel\\source\\repos\\HotelliSystem\\HotelliSystem\\HotelliSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joel\\.nuget\\packages\\eramake.ecryptography\\1.1.6\\eramake.ecryptography.1.1.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Eramake.eCryptography 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Eramake.eCryptography",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

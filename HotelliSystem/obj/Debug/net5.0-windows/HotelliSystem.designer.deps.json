@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eramake.eCryptography/1.1.6": {
+        "runtime": {
+          "lib/net45/eCryptography.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eramake.eCryptography/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nyj1noN2q/hAKz3waqTLZnu6fGgTpyd0Z7pOSgwwYTF1WUGbKiXjTr2jChWHSef3J3QyHMNh8EjtMWb7AOkecw==",
+      "path": "eramake.ecryptography/1.1.6",
+      "hashPath": "eramake.ecryptography.1.1.6.nupkg.sha512"
+    }
+  }
+}
