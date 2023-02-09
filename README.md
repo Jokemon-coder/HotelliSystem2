@@ -2,7 +2,7 @@
 
 ## Introduction and summary
 <p>
-  I made this little project during my education and it's a hotel management system that utilizes a database in MySQL. It contains a login form from which it opens into
+  I made this little project during my education and it's a hotel management system made with Winforms and C# that utilizes a database with MySQL. It contains a login form from which it opens into
   the actual program. In the program there are:
 
   - A login form
