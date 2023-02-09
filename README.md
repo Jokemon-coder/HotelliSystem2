@@ -12,6 +12,9 @@
   - A reservation window to manage reservations
 </p>
 <p>
-  I'm adding this here in a new repository with English comments on the code and slight adjustments. Otherwise this is in the same state as it was when I finished it
-  back in school.
+  I'm adding this here in a new repository with English comments on the code and slight adjustments. Otherwise this is in the same state as it was
+  when I finished it back in school.
+</p>
+<p>
+  This repository also contains when SQL file for the database and it's creation.
 </p>
